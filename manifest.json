@@ -1,0 +1,12 @@
+{
+  "name": "One Million Coins Japanese",
+  "version": "1.0.0",
+  "release_date": "2026-11-06",
+  "game_app_id": 5258340,
+  "tested_build": "26367772",
+  "platform": "Windows x64",
+  "loader": "BepInEx 5.4.23.5 (Mono)",
+  "translation_entries": 4604,
+  "plugin_id": "local.omc.japanese",
+  "network_translation": false
+}
