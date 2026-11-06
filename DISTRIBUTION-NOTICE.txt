@@ -1,0 +1,13 @@
+Distribution notice
+
+The developer, ShoXx, has granted permission for non-commercial distribution
+of this unofficial Japanese language mod. This permission does not imply
+official endorsement or approval of the translation quality.
+
+The MIT license in LICENSE.txt applies only to this project's original
+plugin code and build script. It does not relicense the game, its English
+text, or grant commercial rights to the translation data.
+
+The Japanese translation is shared with ShoXx / OYU Games for incorporation,
+editing, and maintenance in the official One Million Coins game, including
+its commercial release.

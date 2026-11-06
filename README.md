@@ -73,6 +73,21 @@ BepInEx 5が導入済みなら、手順3は不要です。BepInEx 6・IL2CPP向�
 プラグインのソースは[`source/JapaneseLocalization.cs`](source/JapaneseLocalization.cs)、翻訳は[`ja.json`](BepInEx/plugins/JapaneseLocalization/ja.json)です。
 ビルド方法は[`source/README.txt`](source/README.txt)を参照してください。ゲーム本体やBepInExのDLLはローカルのインストール先から参照します。
 
+## 公開許可・配布条件
+
+開発者ShoXxさんから、**非営利での日本語化MOD公開・配布許可**を得ています。
+MITライセンスは独自のプラグインコードとビルドスクリプトに適用されます。
+翻訳データやゲーム原文の商用利用を認めるものではありません。
+詳細は[DISTRIBUTION-NOTICE.txt](DISTRIBUTION-NOTICE.txt)を参照してください。
+
+## 開発者向け翻訳データ
+
+ShoXx / OYU Games向けに、公式ゲームへの組み込みを検討できる翻訳データと英語の説明をまとめています。
+**[開発者向け翻訳ZIP](https://github.com/Bashii1646/OneMillionCoins-Japanese/releases/download/v1.0.0/OneMillionCoins-Japanese-Translation-for-Developer-v1.0.0.zip)**
+
+こちらには`ja.json`と説明書・メタデータのみが入り、MODのDLLやBepInExは含まれません。
+機械翻訳・AI補助を下地に修正した翻訳で、公式収録前の校正・レイアウト確認を推奨します。
+
 ## ライセンス・クレジット
 
 MOD独自のプラグインコードとビルドスクリプトは[MIT License](LICENSE.txt)です。
