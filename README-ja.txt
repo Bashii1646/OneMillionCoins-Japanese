@@ -1,4 +1,9 @@
-﻿One Million Coins 日本語化MOD v1.0.0
+﻿公式日本語対応済み（2026-11-08確認）
+最新版では日本語化MODは不要です。Steamでゲームを更新し、公式の「日本語」を選択してください。
+導入済みのJapaneseLocalization.dllはゲーム終了後に無効化してください。
+以下は旧MODの記録です。
+
+One Million Coins 日本語化MOD v1.0.0
 配布用パッケージ / 2026-11-06
 
 概要

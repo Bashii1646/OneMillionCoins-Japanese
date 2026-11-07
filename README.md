@@ -1,11 +1,32 @@
 # One Million Coins 日本語化MOD
 
+## 公式で日本語対応しました — このMODは不要です
+
+**One Million Coinsは公式に日本語対応しました。最新版では、この日本語化MODも、日本語化のためのBepInEx導入も不要です。**
+
+ゲームをSteamで更新し、メインメニューまたは設定の言語一覧から「日本語」を選んでください。
+本プロジェクトで共有した翻訳を開発者ShoXxさんが公式ゲームに採用し、校正と画面レイアウトの確認を行ってくださいました。ありがとうございます！
+ローカルで公式日本語の追加を確認したビルドは **26508511** です（2026年11月8日確認）。
+
+### MODを導入済みの場合
+
+1. ゲームを終了します。
+2. `BepInEx/plugins/JapaneseLocalization`フォルダをゲームフォルダの外へ退避するか、`JapaneseLocalization.dll`の拡張子を`.dll.disabled`に変更します。
+3. ゲームを起動し、公式の「日本語」を選択してください。
+
+他のMODも利用している場合はBepInEx本体を残してください。セーブデータの削除や、古いセーブへの復元は不要です。
+旧MODを残すと、公式の翻訳を上書きしたり、言語一覧に日本語が重複して表示されたりする可能性があります。
+
+**以下の導入説明と配布ファイルは、公式日本語対応前の旧MODの記録として残しています。最新版への新規導入は不要です。**
+
+---
+
 Steam版 **One Million Coins** のメニュー・装備・スキル・HUDなどを日本語化する非公式MODです。
 ゲーム標準の言語一覧に「日本語」を追加します。
 
-## ダウンロード
+## 旧MODの配布記録（現在は導入不要）
 
-**[最新版のダウンロードはこちら](https://github.com/Bashii1646/OneMillionCoins-Japanese/releases/latest)**
+**[旧MODの配布ページ](https://github.com/Bashii1646/OneMillionCoins-Japanese/releases/latest)**
 
 Releasesの「Assets」にある **`OneMillionCoins-Japanese-v1.0.0.zip`** をダウンロードしてください。
 GitHubが自動生成する「Source code (zip)」には、導入用のDLLは含まれていません。
